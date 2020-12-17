@@ -17,8 +17,9 @@
       <li style= color:blue>Just Some Blue Text</li>
       </ol>
     <p><img src="https://inteng-storage.s3.amazonaws.com/img/iea/ypwqn1mmON/sizes/statue-of-liberty_resize_md.jpg" alt="Image of the Statue of Liberty"></p>
-    <p><a href = https://www.nps.gov/stli/index.htm></a></p>
-    <p><a href = https://www.statueofliberty.org/statue-of-liberty/overview-history/></a></p>
+    <p>Additional Reading</p>
+    <li><a href = https://www.nps.gov/stli/index.htm> National Park Service</a></li>
+    <li><a href = https://www.statueofliberty.org/statue-of-liberty/overview-history/>Overview and History</a></li>
   </body>
 </html>
 ```
